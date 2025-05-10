@@ -1,0 +1,14 @@
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Ignore evidence artifacts unless explicitly added
+/evidence/*.pcap
+/evidence/*.zip
+/evidence/*.bin
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp

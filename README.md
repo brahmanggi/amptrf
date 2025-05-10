@@ -1,4 +1,4 @@
-# Madhava Penetration Test Report Format/Framework
+# Madhava Penetration Test Report Framework
 
 This repository contains a modular, Git-managed penetration test report framework.
 
